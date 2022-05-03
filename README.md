@@ -1,6 +1,5 @@
-<!-- <img src="https://raw.githubusercontent.com/lwsnz/pihole/main/images/pi-hole-image-transp.png" width="100" position="center"> -->
-  
-  
+![image](https://user-images.githubusercontent.com/24641464/166437726-dc49f6ba-d18f-4f1c-8ef9-3b5c20546881.png)
+
   
 <!-- # Pi-hole -->
 
