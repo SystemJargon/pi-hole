@@ -1,0 +1,24 @@
+#block windows updates
+windowsupdates.com
+windowsupdate.com
+update.microsoft.com
+windowsupdate.microsoft.com
+microsoftupdate.com
+prod.do.dsp.mp.microsoft.com
+emdl.ws.microsoft.com
+dl.delivery.mp.microsoft.com
+delivery.mp.microsoft.com
+adl.windows.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+#other updates and telemetry
+ctldl.windowsupdate.com
+sls.update.microsoft.com.akadns.net 
+sls.update.microsoft.com
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+v10.events.data.microsoft.com
+watson.telemetry.microsoft.com
+checkappexec.microsoft.com
+settings-win.data.microsoft.com
+aria.microsoft.com
+msftspeechmodelsprod.azureedge.net
+us-v20.events.data.microsoft.com

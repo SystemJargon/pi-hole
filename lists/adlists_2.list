@@ -1,0 +1,61 @@
+# Nowhere a complete list but somewhat decent
+# Some list files below may or may not be updated regularly. Please double check at your own discretion
+
+# Porn
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+# Adverts
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/ads-telemetry-nzherald.txt
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+https://adaway.org/hosts.txt
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+https://v.firebog.net/hosts/Prigent-Ads.txt
+https://v.firebog.net/hosts/Easylist.txt
+# Tracking-Telemetry
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Analytics.txt
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://hostfiles.frogeye.fr/firstparty-trackers.txt
+https://hostfiles.frogeye.fr/multiparty-trackers.txt
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
+# Custom Blocking - You may wish to review hosts here, some lists may block Google services completely
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/no-gmail.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/no-google-big.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/no-google-hosts.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/url-shorteners.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/pihole-bedtime-restrict-yt-tiktok.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/SmartTV-AndroidTV_updates_telemetry_ads.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/mobile_android/android-telemetry-tracking.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/windows-os-track-telemetry.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/windows-updates-core-telemetry.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/nvidia-telemetry.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/mobile_android/huawei-telemetry-tracking.txt
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/cv19-app-telemetry-tracing.txt
+# DNS DoH ByPass
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/v.firebog.net/copy-thegreatwall-dns-doh.txt
+# Malware or Other Threat
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.piHole.txt
+https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
+https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+# Prevent Coinmining network# Prevent Coinmining network
+https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+# Prevent Phishing
+https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
+https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt

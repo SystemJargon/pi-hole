@@ -1,0 +1,9 @@
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+connectivitycheck.platform.hicloud.com
+connectivitycheck.cbg-app.huawei.com
+connectivity-check.ubuntu.com
+msftconnecttest.com
+www.msftncsi.com
+dns.msftncsi.com
+ipv6.msftconnecttest.com
