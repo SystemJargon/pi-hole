@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/24641464/166437907-b7faef45-4c1e-41fe-82df-dbaf0865ff1f.png)
-  
-<!-- # Pi-hole -->
+# Pi-hole
 
 A trove of content relating to Pi-hole. How-to guides, blocklists, whitelists, regex (regular expression) lists, safesearch, scripts and more. 
 
