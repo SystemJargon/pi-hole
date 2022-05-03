@@ -1,4 +1,6 @@
-# Pi-hole
+<img src="https://raw.githubusercontent.com/lwsnz/pihole/main/images/pi-hole-image-transp.png" width="100" position="center">
+  
+<!-- # Pi-hole -->
 
 A trove of content relating to Pi-hole. How-to guides, blocklists, whitelists, regex (regular expression) lists, safesearch, scripts and more. 
 
