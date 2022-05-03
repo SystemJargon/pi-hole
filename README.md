@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lwsnz/pihole/main/images/pi-hole-image-transp.png" width="100" position="center">
+<!-- <img src="https://raw.githubusercontent.com/lwsnz/pihole/main/images/pi-hole-image-transp.png" width="100" position="center"> -->
   
   
   
