@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/24641464/166437726-dc49f6ba-d18f-4f1c-8ef9-3b5c20546881.png)
-
+![image](https://user-images.githubusercontent.com/24641464/166437907-b7faef45-4c1e-41fe-82df-dbaf0865ff1f.png)
   
 <!-- # Pi-hole -->
 
