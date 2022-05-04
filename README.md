@@ -40,6 +40,10 @@ My Dynamic phishing-malware-nsfw list:
 
 * [Pi-hole discourse community](https://discourse.pi-hole.net/)
 
+* [CloudFlared (DOH) documentation](https://docs.pi-hole.net/guides/dns/cloudflared/)
+
+* [Unbound documentation](https://docs.pi-hole.net/guides/dns/unbound/)
+
 * [A decent read](https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36)
 
 * [Firebog - Blocklist Collection](https://v.firebog.net/hosts/lists.php)
@@ -51,6 +55,8 @@ My Dynamic phishing-malware-nsfw list:
 ## Sites to find Domain Categories / Verify
 
 * [URL Void](https://www.urlvoid.com)
+
+* [urlscan.io](https://www.urlscan.io)
 
 * [OpenDNS Domain Tagging](https://community.opendns.com/domaintagging/)
 
