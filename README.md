@@ -8,15 +8,25 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 ----
 
-## Recommended List/s
+## Links to List/s in this Repo
 
-* My trove of lists [here](lists)
+* Misc. collection of [lists](lists)
 
-* My Dynamic phishing-malware-nsfw list [here](dynamic-big-list/pihole-blocklist-phish-malware-nsfw.txt) 
+--
 
-* [Firebog - Tick list](https://v.firebog.net/hosts/lists.php?type=tick), I have these all combined into one big file [here](dynamic-big-list/firebog-ticklist.list)
+My Dynamic phishing-malware-nsfw list:
 
-* [StevenBlack Hosts list](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) *Note: May have some false positives, you may need to whitelist some hosts. Uses hosts format.
+* [Pi-hole format](dynamic-big-list/pihole-blocklist-phish-malware-nsfw.txt) 
+ 
+* [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/uBlock_AdBlockPlus_AdGuard_format/EasyListFilterSyntax-blocklist-phish-malware-nsfw.txt)
+
+--
+
+[Firebog - Tick list](https://v.firebog.net/hosts/lists.php?type=tick), I have these all combined into one big file:
+
+* [Pi-hole format](dynamic-big-list/firebog-ticklist.list) 
+
+* [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/uBlock_AdBlockPlus_AdGuard_format/EasyListFilterSyntax-firebog-ticklist.list)
 
 ----
 
@@ -26,9 +36,11 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 * [Pi-hole discourse community](https://discourse.pi-hole.net/)
 
+* [A decent read](https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36)
+
 * [Firebog - Blocklist Collection](https://v.firebog.net/hosts/lists.php)
 
-* [A decent read](https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36)
+* [StevenBlack Hosts list](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) *Note: May have some false positives, you may need to whitelist some hosts. Uses hosts format.
 
 ----
 
