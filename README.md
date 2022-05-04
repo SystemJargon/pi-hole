@@ -12,9 +12,9 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 * My trove of lists [here](lists)
 
-* My Dynamic phishing-malware-nsfw list [here](https://github.com/lwsnz/pihole/blob/main/dynamic-big-list/pihole-blocklist-phish-malware-nsfw.txt) 
+* My Dynamic phishing-malware-nsfw list [here](dynamic-big-list/pihole-blocklist-phish-malware-nsfw.txt) 
 
-* [Firebog - Tick list](https://v.firebog.net/hosts/lists.php?type=tick), I have these all combined into one big file [here](https://github.com/lwsnz/pihole/blob/main/dynamic-big-list/firebog-ticklist.list)
+* [Firebog - Tick list](https://v.firebog.net/hosts/lists.php?type=tick), I have these all combined into one big file [here](dynamic-big-list/firebog-ticklist.list)
 
 * [StevenBlack Hosts list](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) *Note: May have some false positives, you may need to whitelist some hosts. Uses hosts format.
 
