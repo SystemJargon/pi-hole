@@ -1,0 +1,33 @@
+# group names in Pi-hole. 
+# As-much a like-for-like in Domain tagging / category. So lists can be grouped and set to clients in Pi-hole in a content filtering environment.
+# some lists maybe on multiple groups
+# this is my personal preference for group names. Each will have their own preference on how they setup groups in Pi-hole.
+Default
+porn
+adverts
+adverts-heavy
+malware
+coin-miners
+social-media
+suspcious
+tracking-telemetry
+test
+youtube
+windows-updates
+other
+gmail
+dns-doh-dot-bypass
+tiktok
+software-updates
+kids-safe
+propaganda-fake-news
+no-google
+url-shorteners
+commerce
+communication-calling
+bedtime-restrict
+vpn-proxy-bypass
+phishing
+bad-tld
+phishing-malware-nsfw
+firebog-tick-lists
