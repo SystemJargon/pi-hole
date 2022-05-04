@@ -28,6 +28,10 @@ My Dynamic phishing-malware-nsfw list:
 
 * [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/uBlock_AdBlockPlus_AdGuard_format/EasyListFilterSyntax-firebog-ticklist.list)
 
+--
+
+[Other Lists list - adlists_2.list](lists/adlists_2.list)
+
 ----
 
 ## Other links
