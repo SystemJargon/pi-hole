@@ -49,15 +49,15 @@ Same as last answer.
 Simple, use my lists, Firebog or look. Ain't too hard.
 
 ## Parental control (blocking adult domains)
-Totally possible. Many NSFW and porn lists exist, refer to [this list by me](https://github.com/lwsnz/pihole/blob/main/lists/porn-multi-lists-combo.txt). 
+Totally possible. Many NSFW and porn lists exist, refer to [this list by me](lists/porn-multi-lists-combo.txt). 
 Use Groups if using Pi-hole v5.x (with Group Management). 
-I even have a script of time management of domains (like bedtime block youtube) and works with crontab (example given). Refer to [this](https://github.com/lwsnz/pihole/tree/main/time-restrict-block-by-group) for more info.
+I even have a script of time management of domains (like bedtime block youtube) and works with crontab (example given). Refer to [this](time-restrict-block-by-group) for more info.
 
 ## SafeSearch DNS
-Again, very possible. Refer to [this](https://github.com/lwsnz/pihole/tree/main/safesearch-dns).
+Again, very possible. Refer to [this](safesearch-dns).
 
 ## Access settings (choose who can use AGH DNS)
-In the real world, you'd have a firewall not rely on the devices ACL only (SPOF). Smart people may use VLAN's and block port 80/443 to the Pi-hole management UI from a Guest / Kid VLAN.
+In the real world, you'd have a firewall not rely on the devices ACL only (SPoF). Smart people may use VLAN's and block port 80/443 to the Pi-hole management UI from a Guest / Kid VLAN.
 
 ## Running without root-privledges?
 I can run pihole as the user pihole (no extra effort required), verifiy by ```ps aux | grep pihole``` or ``` ps -U pihole```
