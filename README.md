@@ -18,7 +18,7 @@ My Dynamic phishing-malware-nsfw list:
 
 * [Pi-hole format](dynamic-big-list/pihole-blocklist-phish-malware-nsfw.txt) 
  
-* [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/uBlock_AdBlockPlus_AdGuard_format/EasyListFilterSyntax-blocklist-phish-malware-nsfw.txt)
+* [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/easylist_format/lz-eng_easyList-phish-malware-nsfw.txt)
 
 --
 
@@ -26,7 +26,7 @@ My Dynamic phishing-malware-nsfw list:
 
 * [Pi-hole format](dynamic-big-list/firebog-ticklist.list) 
 
-* [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/uBlock_AdBlockPlus_AdGuard_format/EasyListFilterSyntax-firebog-ticklist.list)
+* [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/easylist_formatt/lz-eng_easylist-firebog-ticklist.list)
 
 --
 
