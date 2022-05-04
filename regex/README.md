@@ -6,6 +6,18 @@ Example to blacklist regex (you can whitelist regex too).
 
 ![image](https://user-images.githubusercontent.com/24641464/163694862-0ef3b543-1925-4bed-b073-6e610f238d68.png)
 
+----
+
+## Replace a url string to just the domain (inclusive of subdomain if applicable).
+
+So replace https://www.google.com/api?=login/someshit/0931750135145/ to be just www.google.com
+
+Regular Expression - replace (regex - replace)
+```
+^http:..|^https:..|\/.*
+```
+
+Regex validated [here](https://regex101.com/r/7NVd2e/4)
 
 ----
 
