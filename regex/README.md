@@ -21,7 +21,7 @@ Regex validated [here](https://regex101.com/r/7NVd2e/4)
 
 ----
 
-TLD for Countries, examples
+## TLD for Countries, examples
 
 [Country Code Top Level Domain List - Wikipedia](https://en.wikipedia.org/wiki/Country_code_top-level_domain#Lists)
  
@@ -45,6 +45,8 @@ TLD for Countries, examples
 
 ----
 
+## More Examples
+
 any google API subdomain
 ```(\.|^)googleapis\.com$```
 
@@ -54,9 +56,12 @@ any zoom.us subdomain
 ads as subdomain
 ```(\.|^)ads\.$```
 
+xyz top-level-domain (tld)
+```(\.|^)\.xyz$```
+
 ----
 
-porn begins with blocking regex
+## porn begins with blocking regex
 ```
 (\.|^)(123xmovie|18moviesonline|18porno|18teenporno|2beeg|adult|affect3dstore|ahcdn|alamy|amazporn|amorelie|analviolation|anycash|anyporn|aporntv|area51|babe|bang-movies|beemcams|beemtube|best-free-porn-sites|big7|bigporn|biguz|biguzcams|biguzplayer|bimbolive|blogspot|blumpkintube|bmbsgo|bobs-tube|bongacams|boys|bravoporn|bravospots|bravotube|bubbaporn|bumsen|bumsfilme|cartoonpornvideos|cartoonpornvilla|cartoonprn|cashdorado|cnrs|cum4k|cumlouder|cybersitter|daftsex|ddlgvideo|deepthroatxvideo|deinesexfilme|desiresexxx|deutsche-pornoseiten|dick|ditme|e-hentai|eachporn|eporner|erotic|erotik|exxxtrasmall|familyporner|familypornhd|familystrokes|familyxtube|fap-videos|fapcat|faperoni|faphouse|fapmovz|fellatio|fetish|fick|forlumineoner|freehentaistream|freeones|freexxxporn|fuck|fundorado|fuqer|gay|girl|gizmoxxx|gotporn|hanime|hclips|hd-easyporn|hd-sexfilme|hdefporn|hdpornos|hellcdn|hentai2w|hentaicdn|hentaidude|hentaihaven|hentaiwire|hentaizilla|herzporno|homedoporn|hot-porn-sites|hotporn|hotpremiumxxx|humphole|iceporn|incesto69|incestsex|justindianporn|justindianporn2|kashtanka|katestube|kilovideo|kompoz2|lesbian|liebelib|livejasmin|luscious|meinyouporn|milf|minuporno|morehardporn|motherless|mouthporn|mydirtystories|mypornhere|nakedword|naughtyhentai|nineteentube|nothingtoxic|nudeamateurgirls|nudeclap|nudes|nudezz|ocry|ojiz|onlyindianporn|orgasm|perversefamily|phncdn|pickupforum|playvids|porn|pussy|rajwap|realteengirls|redwap|redwap-cdn|redwap2|saradahentai|schlampen|serviporno|servitubes|sex|shooshtime|sisterporn|spankbang|sperm|squarespace|stripchat|sugarnips|swinger|teenpornvideo|teensnow|thebestfetishsites|theporndude|thepornlist|thepornmap|tipser|tits|topsex-links|truyen-hentai|tubecdn|tubecup|tuboff|tumblr|udvl|upornia|voyeurshd|vporn|vrbangers|vxxxcdn|wankoz|webcam-pornos|wix|wixstatic|wtfpeople|xbabe|xcum|xhamster|xhamster2|xhamsterlive|xhamsterpremium|xhcdn|xhothub|xnxx|xsexvid|xvideos|xvideos-cdn|xvidsporno|xxx|youngpornvideos|your-sexy-dream2|yourbrainonporn|zhentube|zishy)
 ```
