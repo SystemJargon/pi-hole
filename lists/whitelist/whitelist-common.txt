@@ -13,3 +13,4 @@ s3.amazonaws.com # various things on AWS
 # mobile.launchdarkly.com # Allow Samsung Smart Things
 # smartthings.com # Allow Samsung Smart Things
 # cdn.samsungcloudsolution.com # Allow Samsung CDN
+cdn.shopify.com # allow images on sites which use Shopify
