@@ -24,9 +24,9 @@ It is ultimately up to you to decide. Many videos/reviews around the internet ex
  
 ----
 
-First time I used Adguard Home via testing on a Raspberry Pi...
+AdGuard Home and my gripes/issue of sorts? (maybe a issue/PR exists for this)
 
-Issue of sorts? All clients use Blocklists, not able to specify what 'client' uses what 'list'. (Filters > DNS Blocklists)
+All clients use Blocklists, not able to specify what 'client' uses what 'list'. (Filters > DNS Blocklists)
 
 I suppose if you have lists just for the adverts,malware,phishing it applies to ALL+ANY Client by Default, that's ok (bar whitelisting example.com domain it may false positive).
 
@@ -71,4 +71,3 @@ In the real world, you'd have a firewall not rely on the devices ACL only (SPoF)
 ## Running without root-privledges?
 I can run pihole as the user pihole (no extra effort required beyond knowing systemd/process), verifiy by ```ps aux | grep pihole``` or ``` ps -U pihole```
 
- 
