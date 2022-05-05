@@ -8,7 +8,7 @@ Example to blacklist regex (you can whitelist regex too).
 
 ----
 
-## Replace a url string to just the domain (inclusive of subdomain if applicable).
+## Strip down full URL to domain name
 
 So replace https://www.google.com/api?=login/someshit/0931750135145/ to be just www.google.com
 
@@ -45,19 +45,18 @@ Regex validated [here](https://regex101.com/r/7NVd2e/4)
 
 ----
 
-## More Examples
+## Examples of regex and wildcards with domains and URLs
 
-any google API subdomain
-```(\.|^)googleapis\.com$```
+* any subdomain of example.com ```(\.|^)example\.com$```
+* any subdomain of example.net  ```(\.|^)example\.net$```
+* ads as subdomain but not known TLD ```(\.|^)ads\.$```
+* xxx as top-level-domain but not known subdomain nor domain ```(\.|^)\.xxx$```
 
-any zoom.us subdomain
-```(\.|^)zoom\.us$```
+Then you could try something like this, for keyword multi-string in the domain name.
 
-ads as subdomain
-```(\.|^)ads\.$```
-
-xyz top-level-domain (tld)
-```(\.|^)\.xyz$```
+```
+(\.)(adult|ads|adverts|advertising|click|porn|sex|telemetry|tracking|tracing)$
+```
 
 ----
 
@@ -76,3 +75,13 @@ xyz top-level-domain (tld)
 ```
 (\.|^|-)(youtubeeducation|youtube|ytimg|googlevideo|youtubegaming|youtube-nocookie|youtubei|yt3)[.]
 ```
+
+## Convert a URL list to EasyList format
+
+Debian CLI: ```sed 's/^/||/' pihole-format.txt > easylist-format.txt```
+
+In a text editor GUI try this:
+
+(usually Ctrl+H on Windows for 'replace')
+find string/what: ```^```
+replace string/what: ```||```
