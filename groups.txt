@@ -6,8 +6,6 @@ Default
 porn
 adverts
 adverts-heavy
-malware
-coin-miners
 social-media
 suspcious
 tracking-telemetry
@@ -27,7 +25,6 @@ commerce
 communication-calling
 bedtime-restrict
 vpn-proxy-bypass
-phishing
 bad-tld
 phishing-malware-nsfw
 firebog-tick-lists
