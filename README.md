@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lwsnz/pihole/main/images/pi-hole-image-transp.png" width="100" position="center">
+<img src="https://raw.githubusercontent.com/lz-eng/pi-hole/main/images/pi-hole-image-transp.png" width="100" position="center">
   
 <!-- # Pi-hole -->
 
@@ -16,7 +16,7 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 My Dynamic phishing-malware-nsfw list:
 
-* [Pi-hole format](dynamic-big-list/pihole-blocklist-phish-malware-nsfw.txt) 
+* [Pi-hole format](dynamic-big-list/pi-hole-blocklist-phish-malware-nsfw.txt) 
  
 * [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/easylist_format/lz-eng_easyList-phish-malware-nsfw.txt)
 
@@ -30,9 +30,8 @@ My Dynamic phishing-malware-nsfw list:
 
 --
 
-[Other Lists list - adlists_2.list](lists/adlists_2.list)
+<!-- [Other Lists list - adlists_2.list](lists/adlists_2.list) -->
 
-----
 
 ## Other links
 
