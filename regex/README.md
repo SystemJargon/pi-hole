@@ -76,12 +76,3 @@ Then you could try something like this, for keyword multi-string in the domain n
 (\.|^|-)(youtubeeducation|youtube|ytimg|googlevideo|youtubegaming|youtube-nocookie|youtubei|yt3)[.]
 ```
 
-## Convert a URL list to EasyList format
-
-Debian CLI: ```sed 's/^/||/' pihole-format.txt > easylist-format.txt```
-
-In a text editor GUI try this:
-
-(usually Ctrl+H on Windows for 'replace')
-find string/what: ```^```
-replace string/what: ```||```
