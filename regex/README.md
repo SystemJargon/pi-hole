@@ -8,19 +8,6 @@ Example to blacklist regex (you can whitelist regex too).
 
 ----
 
-## Strip down full URL to domain name
-
-So replace https://www.google.com/api?=login/someshit/0931750135145/ to be just www.google.com
-
-Regular Expression - replace (regex - replace)
-```
-^http:..|^https:..|\/.*
-```
-
-Regex validated [here](https://regex101.com/r/7NVd2e/4)
-
-----
-
 ## TLD for Countries, examples
 
 [Country Code Top Level Domain List - Wikipedia](https://en.wikipedia.org/wiki/Country_code_top-level_domain#Lists)
