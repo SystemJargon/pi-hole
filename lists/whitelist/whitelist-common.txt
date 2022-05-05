@@ -1,0 +1,15 @@
+############################################################
+# Whitelist Common things in Pi-hole
+# Notes:
+# You could use regex or plain text. 
+# Pi-hole will allow the wildcard regex via tickbox anyway.
+# Format below:
+# domain # comment-purpose-what
+############################################################
+graph.instagram.com # Graph API
+t.co # twitter short url
+# linktr.ee # social media links on linktree
+s3.amazonaws.com # various things on AWS
+# mobile.launchdarkly.com # Allow Samsung Smart Things
+# smartthings.com # Allow Samsung Smart Things
+# cdn.samsungcloudsolution.com # Allow Samsung CDN
