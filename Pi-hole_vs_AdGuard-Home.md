@@ -6,9 +6,11 @@ This is a over-time mind-dump/spew of AdGuardHome. Mostly opinion based, some fa
 
 ## Which one, Pi-hole or AdGuardHome???
 
-It's a personal preference and what works for you and your environment IMO. Pi-hole I like better in my opinion. More config for the tech minded.
+It's a personal preference and what works for you and your environment. 
 
-For a non-tech person, maybe AdGuard home will be better suited. 
+Pi-hole I like better in my opinion since Group Management existed. Pi-hole is simply put, 'more config for the tech minded'.
+
+For a non-tech person, in my opinion, AdGuard home will be better suited for ease of simplicity vs Pi-hole.
 
 It is ultimately up to you to decide. Many videos/reviews around the internet exist for both.
 
@@ -26,13 +28,13 @@ First time I used Adguard Home via testing on a Raspberry Pi...
 
 Issue of sorts? All clients use Blocklists, not able to specify what 'client' uses what 'list'. (Filters > DNS Blocklists)
 
-I suppose if you have lists just for the adverts,malware,phishing it applies to ALL+ANY Client, that's ok (bar whitelisting example.com domain).
+I suppose if you have lists just for the adverts,malware,phishing it applies to ALL+ANY Client by Default, that's ok (bar whitelisting example.com domain it may false positive).
 
-But maybe I have a big list of 10,000 entries I only want the client of "kids" which is a client i list at x.x.x.x/24 (CIDR notation). 
-That isn't an option in AGH, but I can get the above to work in Pi-hole via Group Management.
+But maybe I have a big list of 10,000 entries I only want the client of "kids" to use. The client kids is specified as 'x.x.x.x/24'.
+That isn't an option in AGH to say only Client A uses 'example' list. Note: I can get the above to work in Pi-hole via Group Management.
 
 
-Also, how do I export lists/configs/backup the entire thing for a future restore in the Web UI? I can't see any such option.
+Lastly, how do I export lists/configs/backup the entire AdGuardHome for a future restore in the Web UI? I can't see any such option. 
 
 ----
 
