@@ -20,3 +20,4 @@
 (\.|^)sc-cdn\.net$
 (\.|^)sc-prod\.net$
 (\.|^)whatsapp\.com$
+(\.|^|-)(facebook|fb|instagram|tiktok|whatsapp|snapchat)[.]
