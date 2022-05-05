@@ -1,15 +1,5 @@
-
 # EasyList Filter Syntax / Static Filter Syntax
 
-Reference about the syntax mentioned [here](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
+From what I can gather this *should* work with the likes of Adguard, uBlock Origin, AdblockPlus etc etc.
 
-----
-
-## Should work with Adguard, uBlock Origin, AdblockPlus.
-
-Originally for Pi-hole these [lists](https://github.com/lwsnz/pihole/tree/main/dynamic-big-list).
-
-With some regex magic, we add ```||``` to the start of each line. 
-
-So it apparently becomes usable syntax in the likes of Adguard, uBlock Origin, AdblockPlus etc.
-
+Reference about the 'EasyList' and the syntax mentioned [here](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
