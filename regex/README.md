@@ -67,12 +67,12 @@ xyz top-level-domain (tld)
 ```
 
 
-TLD blocking regex
+## TLD blocking regex
 ```
 (\.)(adult|as|asia|best|bet|bible|bid|biz|br|by|cam|camera|casa|cash|casino|club|cn|co|cz|fun|gay|gold|internal|la|link|mobi|network|one|online|pl|poker|porn|pro|re|review|rip|ro|rocks|ru|sex|sexy|sh|site|space|su|tech|tk|top|tube|vegas|video|vip|vn|vodka|voyage|wang|webcam|win|wine|ws|wtf|xin|xx|xxx|xy|xyz|zonetk)$
 ```
 
-Youtube blocking regex
+## Youtube blocking regex
 ```
 (\.|^|-)(youtubeeducation|youtube|ytimg|googlevideo|youtubegaming|youtube-nocookie|youtubei|yt3)[.]
 ```
