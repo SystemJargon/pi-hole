@@ -15,3 +15,4 @@
 (\.|^)ivpn\.net$
 (\.|^)mullvad\.net$
 (\.|^)sec-tunnel\.com$
+(\.|^|-)(proxy|vpn|tunnel|tor|onion)[.]
