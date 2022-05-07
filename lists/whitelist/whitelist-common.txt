@@ -16,3 +16,13 @@ mobile.launchdarkly.com # Allow Samsung Smart Things
 smartthings.com # Allow Samsung Smart Things
 cdn.samsungcloudsolution.com # Allow Samsung CDN
 graph.instagram.com # Instagram Graph API. Debate exists on this
+# Connectivity Tests
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+connectivitycheck.platform.hicloud.com
+connectivitycheck.cbg-app.huawei.com
+connectivity-check.ubuntu.com
+msftconnecttest.com
+www.msftncsi.com
+dns.msftncsi.com
+ipv6.msftconnecttest.com
