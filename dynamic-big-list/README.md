@@ -1,11 +1,11 @@
 ## Update Frequency of list/s
 
 
-Any list/s should be updated regularly and automatically in an ideal world / best efforts.
+Any list/s in this folder should be updated regularly and automatically in an ideal world / best efforts.
 
-<!-- Currently this is daily just after 9am NZ time. It is automated via script. -->
+A date and time stamp should be added to the list/s at the top to show, "last updated". 
 
-A date and time stamp should be added to the list/s at the top to show, "last updated".
+Currently this is daily just after 12pm NZT time (+12 hours ahead of UTC). It is automated.
 
 ----
 
