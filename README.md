@@ -6,6 +6,8 @@ A trove of content relating to Pi-hole. How-to guides, blocklists, whitelists, r
 
 Feel to contribute, fork, pull-request, star or otherwise.
 
+If you are looking for <b>AdGuard Home</b> resources, lists, how-to's, refer to my [AdGuardHome repository](https://github.com/lz-eng/AdGuardHome).
+
 ----
 
 ## Links to List/s in this Repo
