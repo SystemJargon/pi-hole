@@ -1,3 +1,4 @@
 github.com
 raw.githubusercontent.com
+githubusercontent.com
 nextdns.io
