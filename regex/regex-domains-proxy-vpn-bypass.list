@@ -1,5 +1,8 @@
 (\.|^)adguard-vpn\.com$
 (\.|^)nordvpn\.com$
+(\.|^)nordcdn\.com$
+(\.|^)applytics.zwyr157wwiu6eior\.com$ # Analytics via NordVPN riskware.
+(\.|^)zwyr157wwiu6eior\.com$ # NordVPN riskware. Many complaints online about this domain.
 (\.|^)privateinternetaccess\.com$
 (\.|^)expressvpn\.com$
 (\.|^)windscribe\.com$
@@ -15,4 +18,13 @@
 (\.|^)ivpn\.net$
 (\.|^)mullvad\.net$
 (\.|^)sec-tunnel\.com$
+(\.|^)hide.\.me$
+(\.|^)torguard.net
+(\.|^)torproject.org
+(\.|^)avira-vpn\.com$
+(\.|^)anydesk\.com$ 
+(\.|^)teamviewer\.com$
+(\.|^)logmein\.com$
+(\.|^)vpn\.net$
+# other domains
 (\.|^|-)(proxy|vpn|tunnel|tor|onion)[.]
