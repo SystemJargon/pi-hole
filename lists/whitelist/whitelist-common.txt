@@ -1,13 +1,12 @@
-############################################################
+##############################################################
 # Whitelist Common things in Pi-hole
 # Notes:
 # You could use regex or plain text. 
-# Pi-hole will allow the wildcard regex via tickbox anyway.
+# Pi-hole will allow the wildcard regex via tickbox anyway
 # Format below:
-# domain # comment-purpose-what
-############################################################
-github.com # Github
-raw.githubusercontent.com # Github
+# domain # comment | purpose-what where applicable
+# comment out hosts we don't use, but maybe useful for others
+##############################################################
 s3.amazonaws.com # various things on AWS
 cdn.shopify.com # allow images on websites which use Shopify
 t.co # twitter short url
@@ -16,13 +15,25 @@ mobile.launchdarkly.com # Allow Samsung Smart Things
 smartthings.com # Allow Samsung Smart Things
 cdn.samsungcloudsolution.com # Allow Samsung CDN
 graph.instagram.com # Instagram Graph API. Debate exists on this
+
 # Connectivity Tests
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
-connectivitycheck.platform.hicloud.com
-connectivitycheck.cbg-app.huawei.com
+#connectivitycheck.platform.hicloud.com # no phone
+#connectivitycheck.cbg-app.huawei.com # no phone 
 connectivity-check.ubuntu.com
 msftconnecttest.com
 www.msftncsi.com
 dns.msftncsi.com
-ipv6.msftconnecttest.com
+#ipv6.msftconnecttest.com # commented if not using IPv6
+
+# dev sites for our lists and dns upstream candidates.
+github.com
+githubusercontent.com
+github.io
+gitlab.com
+firebog.net
+hostfiles.frogeye.fr
+adaway.org
+quad9.net
+nextdns.io
