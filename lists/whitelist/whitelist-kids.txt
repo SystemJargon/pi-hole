@@ -2,3 +2,7 @@ github.com
 raw.githubusercontent.com
 githubusercontent.com
 nextdns.io
+im-ws-sg.tiktok.com
+mcs-va.tiktok.com
+mon-va.byteoversea.com
+starling-oversea.byteoversea.com
