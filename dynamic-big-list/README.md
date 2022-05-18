@@ -5,7 +5,6 @@ Any list/s in this folder should be updated regularly and automatically in an id
 
 A date and time stamp should be added to the list/s at the top to show, "last updated". 
 
-Currently this is daily just after 12pm NZT time (+12 hours ahead of UTC). It is automated.
 
 ----
 
