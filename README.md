@@ -14,25 +14,10 @@ I also have an [AdGuardHome repository](https://github.com/lz-eng/AdGuardHome).
 
 * Misc. collection of [lists](lists)
 
---
+* [Dynamic lists](dynamic-big-list)
 
-My Dynamic phishing-malware-nsfw list:
+----
 
-* [Pi-hole format](dynamic-big-list/pi-hole-blocklist-phish-malware-nsfw.txt) 
- 
-* [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/easylist_format/lz-eng_easyList-phish-malware-nsfw.txt)
-
---
-
-[Firebog - Tick list](https://v.firebog.net/hosts/lists.php?type=tick), I have these all combined into one big file:
-
-* [Pi-hole format](dynamic-big-list/firebog-ticklist.list) 
-
-* [uBlockOrigin-AdBlockPlus-AdGuardHome format](dynamic-big-list/easylist_format/lz-eng_easylist-firebog-ticklist.list)
-
---
-
-<!-- [Other Lists list - adlists_2.list](lists/adlists_2.list) -->
 
 
 ## Other links
