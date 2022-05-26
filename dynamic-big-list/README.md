@@ -2,6 +2,8 @@
 
 A date and time stamp should be added to the list/s at the top to show, "last updated" or likewise.
 
+Currently I have this to update automatically update at 12pm (NZST) which is 1am UTC time every day.
+
 ----
 
 ## What is in the list/s?
