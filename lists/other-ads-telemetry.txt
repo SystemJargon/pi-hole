@@ -1,5 +1,5 @@
 #####################################################################
-## Other-ads-telemetry by lz-eng 
+## Other-ads-telemetry 
 ## Used in Pi-hole
 ## Other as anything otherwise not defined.
 ## Further ad's and telemetry. 

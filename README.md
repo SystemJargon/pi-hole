@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lz-eng/pi-hole/main/images/pi-hole-image-transp.png" width="100" position="center">
+<img src="https://raw.githubusercontent.com/SystemJargon/pi-hole/main/images/pi-hole-image-transp.png" width="100" position="center">
   
 <!-- # Pi-hole -->
 
@@ -6,7 +6,7 @@ A trove of content relating to Pi-hole. How-to guides, blocklists, whitelists, r
 
 Feel to contribute, fork, pull-request, star or otherwise.
 
-I also have an [AdGuardHome repository](https://github.com/lz-eng/AdGuardHome).
+I also have an [AdGuardHome repository](https://github.com/SystemJargon/AdGuardHome).
 
 ----
 

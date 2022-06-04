@@ -1,5 +1,4 @@
-## Compiled by lz-eng (github)
-## for regex entries see regex/regex-domains-social-media.list in my pi-hole repo. 
+## For regex entries see regex/regex-domains-social-media.list in my pi-hole repo. 
 # facebook
 apps.facebook.com
 connect.facebook.net
