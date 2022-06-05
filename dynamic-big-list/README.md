@@ -19,6 +19,8 @@ Filenames should contain some of the purpose of what it blocklists. Example phis
 <b>About:</b> Is for blocking categories: malware including coinminers, porn/nsfw, phishing. 
 This is meant to supplement the plethora of advert, track and telemetry lists out there.
 
+<i>It uses a combination of my own content and other good lists which fit the categories it is named after.
+Duplicates and False Positives are removed on each commit where and if applicable.</i>
 
 For use in Pi-hole 'Adlist group management'.
 
@@ -26,7 +28,7 @@ For use in Pi-hole 'Adlist group management'.
 
 <b>File:</b> [ph_bl-firebog-ticklist.txt](https://raw.githubusercontent.com/SystemJargon/pi-hole/main/dynamic-big-list/ph_bl-firebog-ticklist.txt)
 
-<b>About:</b> Combined into one list, comprised of of all contents in the lists which feature on the Firebog 'tick list'.
+<b>About:</b> Combined into one list, comprised of of all contents in the lists which feature on the <b>Tick List</b> at [Firebog](https://firebog.net/)
 
 For use in Pi-hole 'Adlist group management'.
 
