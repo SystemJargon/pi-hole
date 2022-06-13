@@ -14,7 +14,7 @@ I also have an [AdGuardHome repository](https://github.com/SystemJargon/AdGuardH
 
 * Misc. collection of [lists](lists)
 
-* [Dynamic lists](dynamic-big-list)
+* [Dynamic lists](dynamic-big-list) - these get updated very often / daily.
 
 ----
 
