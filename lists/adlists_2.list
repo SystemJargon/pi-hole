@@ -1,7 +1,8 @@
 #############################
 ## Filename: adlists_2.list 
 ## Description: filename is so we don't overwrite original adlists.list. 
-## Last update: May 5th 2022. Cleaned up file. Distinguish firebog and other lists apart. Label category in comment above list/s.
+## Last update: June 13th 2022. 
+## Change notes: Lists in new folder structure by category. Cleaned up README file. Distinguish firebog and other lists apart. Label category in comment above list/s.
 #############################
 ## Firebog Hosted Lists
 # Advertisement Lists:
