@@ -88,10 +88,3 @@ mclean.cloud.360safe.com
 # further shit observed out of browsing DB fake download and scam executables possible
 # not verified
 fn.gg
-# staff downloading dodgy pdf later found with MS + SET
-mediafire.com
-mega.nz
-mega.co.nz
-# random traffic
-arkoselabs.com
-1vs1.lol

@@ -6,3 +6,5 @@ msftconnecttest.com
 www.msftncsi.com
 dns.msftncsi.com
 ipv6.msftconnecttest.com
+connectivitycheck.platform.hicloud.com
+connectivitycheck.cbg-app.huawei.com

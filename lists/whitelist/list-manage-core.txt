@@ -5,5 +5,3 @@ gitlab.com
 firebog.net
 hostfiles.frogeye.fr
 adaway.org
-quad9.net
-nextdns.io
