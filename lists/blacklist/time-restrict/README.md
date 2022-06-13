@@ -1,0 +1,1 @@
+The purpose of this is documented [here](https://github.com/SystemJargon/pi-hole/tree/main/time-restrict-block-by-group)
