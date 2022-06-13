@@ -9,7 +9,7 @@
 https://v.firebog.net/hosts/AdAway.txt
 https://v.firebog.net/hosts/Disconnect-ads.txt
 https://v.firebog.net/hosts/Easylist.txt
-https://v.firebog.net/hosts/Easylist-Dutch.txt
+#https://v.firebog.net/hosts/Easylist-Dutch.txt
 https://v.firebog.net/hosts/SBUnchecky.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
@@ -23,8 +23,10 @@ https://v.firebog.net/hosts/Openphish.txt
 https://v.firebog.net/hosts/SBRisk.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
-# Non-Firebog hosted
-#
+# SystemJargon Ticklist
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/dynamic-big-list/ph_bl-firebog-ticklist.txt
+# SystemJargon Phishing-Malware-NSFW-blocklist
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/dynamic-big-list/ph_bl-phish-malware-nsfw.txt
 # Porn
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
