@@ -12,7 +12,7 @@ pihole config in GUI
 
 *	create a group in pihole called "bedtime-restrict" (in this example we will use a kids bedtime for the time).
 
-*	Add a new adlist, comment it as "bedtime-restrict". Example Block TikTok and Youtube list,  [pihole-bedtime-restrict-yt-tiktok.txt](../lists/pihole-bedtime-restrict-yt-tiktok.txt), note you could use whatever list you want of course.
+*	Add a new adlist, comment it as "bedtime-restrict". Example Block TikTok and Youtube list,  [pihole-bedtime-restrict-yt-tiktok.txt](../lists/time-restrict/pihole-bedtime-restrict-yt-tiktok.txt), note you could use whatever list you want of course.
 
 *	add this adlist to be a member of group, "bedtime-restrict"
 
