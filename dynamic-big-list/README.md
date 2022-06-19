@@ -16,7 +16,7 @@ Filenames should contain some of the purpose of what it blocklists. Example phis
 
 <b>File:</b> [ph_bl-phish-malware-nsfw.txt](https://raw.githubusercontent.com/SystemJargon/pi-hole/main/dynamic-big-list/ph_bl-phish-malware-nsfw.txt)
 
-<b>About:</b> Is for blocking categories: malware including coinminers, porn/nsfw, phishing. 
+<b>About:</b> Is for blocking categories: malware including coinminers, porn/nsfw, phishing, ransomware.
 This is meant to supplement the plethora of advert, track and telemetry lists out there.
 
 <i>It uses a combination of my own content and other good lists which fit the categories it is named after.
