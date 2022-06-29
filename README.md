@@ -14,7 +14,7 @@ I also have an [AdGuardHome repository](https://github.com/SystemJargon/AdGuardH
 
 * Misc. collection of [lists](lists)
 
-* [My Blocklists Repo](https://github.com/SystemJargon/blocklists) - these get updated very often / daily.
+* [My Blocklists Repo](https://github.com/SystemJargon/blocklists) - updated very often / daily.
 
 ----
 
