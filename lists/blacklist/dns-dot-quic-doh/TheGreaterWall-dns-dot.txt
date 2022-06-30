@@ -1,6 +1,4 @@
-### Last Updated May 2nd 2022 by lwsnz
-### This Source v1 https://raw.githubusercontent.com/lwsnz/pihole/main/lists/TheGreatWall-dns-doh.txt
-### This Source v2 https://raw.githubusercontent.com/lwsnz/pihole/main/lists/TheGreaterWall-dns-doh.txt
+### Last Updated May 2nd 2022 by systemjargon
 ### Changes: removed duplicate lines between previous list above and the next one/s below. Merged two existing awesome lists.
 ### Stripped out 0.0.0.0 from other lists below with source name and just kept the hostnames and comments.
 ### added - "next list" to act as a find each list seperator
