@@ -12,9 +12,11 @@ I also have an [AdGuardHome repository](https://github.com/SystemJargon/AdGuardH
 
 ## Links 
 
-* My misc. collection of [lists](lists)
+* My misc. collection of [lists](lists) 
 
 * [My Blocklists Repo](https://github.com/SystemJargon/blocklists) - updated very often / daily.
+
+* [My Allowlists Repo](https://github.com/SystemJargon/allowlists) - updated very often / daily.
 
 ----
 
