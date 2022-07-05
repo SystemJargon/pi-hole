@@ -8,9 +8,11 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 I also have an [AdGuardHome repository](https://github.com/SystemJargon/AdGuardHome).
 
+The repo's core files, may not receive regular updates. But lists to allow/block may.
+
 ----
 
-## Links 
+## Links to lists.
 
 * My misc. collection of [lists](lists) 
 
