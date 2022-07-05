@@ -6,25 +6,26 @@ A trove of content relating to Pi-hole. How-to guides, blocklists, whitelists, r
 
 Feel to contribute, fork, pull-request, star or otherwise.
 
-I also have an [AdGuardHome repository](https://github.com/SystemJargon/AdGuardHome).
+## Links to lists outside this repo.
 
-The repo's core files, may not receive regular updates. But lists to allow/block may.
+* [My Blocklists Repo](https://github.com/SystemJargon/blocklists)
+
+* [My Allowlists Repo](https://github.com/SystemJargon/allowlists)
 
 ----
 
-## Links to lists.
+## Links to lists inside this repo 
 
-* My misc. collection of [lists](lists) 
+* [Lists](https://github.com/SystemJargon/pi-hole/tree/main/lists) - no longer maintained.
 
-* [My Blocklists Repo](https://github.com/SystemJargon/blocklists) - updated very often / daily.
-
-* [My Allowlists Repo](https://github.com/SystemJargon/allowlists) - updated very often / daily.
 
 ----
 
 
 
 ## Other links
+
+* My [AdGuardHome repository](https://github.com/SystemJargon/AdGuardHome).
 
 * [Official website](https://pi-hole.net/)
 
