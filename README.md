@@ -16,7 +16,7 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 ## Links to lists inside this repo 
 
-* [Lists](https://github.com/SystemJargon/pi-hole/tree/main/lists) - no longer maintained.
+* [Lists](https://github.com/SystemJargon/pi-hole/tree/main/lists) - no longer maintained - see blocklists/allowlists repo.
 
 
 ----
