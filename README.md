@@ -6,7 +6,7 @@ A trove of content relating to Pi-hole. How-to guides, blocklists, whitelists, r
 
 Feel to contribute, fork, pull-request, star or otherwise.
 
-## Links to lists outside this repo.
+## Links to my allowlists and blocklists
 
 * [My Blocklists Repo](https://github.com/SystemJargon/blocklists)
 
@@ -16,7 +16,7 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 ## Links to lists inside this repo 
 
-* [Lists](https://github.com/SystemJargon/pi-hole/tree/main/lists) - no longer maintained - see blocklists/allowlists repo.
+* [Lists](https://github.com/SystemJargon/pi-hole/tree/main/lists)
 
 
 ----
