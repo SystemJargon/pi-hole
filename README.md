@@ -42,6 +42,8 @@ All raw link lists below are in HOSTS format & supported in pi-hole
 
 [StevenBlack Hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
 
+[Perflyst SmartTV](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) or [SmartTV-more](https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/SmartTV-more.txt)
+
 ----
 
 
