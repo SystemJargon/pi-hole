@@ -1,6 +1,10 @@
+# Pi-hole 
+
 <img src="https://raw.githubusercontent.com/SystemJargon/pi-hole/main/images/pi-hole-image-transp.png" width="100" position="center">
   
 <!-- # Pi-hole -->
+
+## About
 
 A trove of content relating to Pi-hole. How-to guides, blocklists, whitelists, regex (regular expression) lists, safesearch, scripts and more. 
 
@@ -8,17 +12,11 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 ### Status
 
-[![Update File](https://github.com/SystemJargon/pi-hole/actions/workflows/update-ticked-hosts.yml/badge.svg)](https://github.com/SystemJargon/filters/actions/workflows/update-ticked-hosts.yml)
-
-[![HitCount](https://hits.dwyl.com/systemjargon/pi-hole.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/pi-hole) [![GitHub stars](https://img.shields.io/github/stars/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers) [![GitHub stars](https://img.shields.io/github/forks/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers) [![GitHub stars](https://img.shields.io/github/issues/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers)
-
-
-[![last commit](https://img.shields.io/github/last-commit/SystemJargon/pi-hole.svg)](https://github.com/SystemJargon/pi-hole/commits/master)
-[![commit activity](https://img.shields.io/github/commit-activity/y/SystemJargon/pi-hole.svg)](https://github.com/SystemJargon/pi-hole/commits/master)
+[![Update File](https://github.com/SystemJargon/pi-hole/actions/workflows/update-ticked-hosts.yml/badge.svg)](https://github.com/SystemJargon/filters/actions/workflows/update-ticked-hosts.yml) [![HitCount](https://hits.dwyl.com/systemjargon/pi-hole.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/pi-hole) [![GitHub stars](https://img.shields.io/github/stars/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers) [![GitHub stars](https://img.shields.io/github/forks/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers) [![GitHub stars](https://img.shields.io/github/issues/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers) [![last commit](https://img.shields.io/github/last-commit/SystemJargon/pi-hole.svg)](https://github.com/SystemJargon/pi-hole/commits/master) [![commit activity](https://img.shields.io/github/commit-activity/y/SystemJargon/pi-hole.svg)](https://github.com/SystemJargon/pi-hole/commits/master)
 
 ----
 
-## How to add lists?
+### How to add lists?
 
 * Login to Pi-hole
 * Adlists
@@ -27,7 +25,7 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 ----
 
-## False Positives
+### False Positives
 
 Which list contains it the domain?
 
@@ -37,7 +35,7 @@ You can then optionally allowlist/whitelist this or submit an [issue](https://gi
 
 ----
 
-## My Links 
+### My Links 
 
 * [Pi-hole Lists](https://github.com/SystemJargon/pi-hole/tree/main/lists)
 
@@ -51,25 +49,25 @@ You can then optionally allowlist/whitelist this or submit an [issue](https://gi
 
 ----
 
-## Good Recommended Strong lists (if trying to keep it simple). 
+### Good Recommended Strong lists (if trying to keep it simple). 
 
 All raw link lists below are in HOSTS format & supported in pi-hole
 
-[Firebog Ticklist](https://raw.githubusercontent.com/SystemJargon/pi-hole/main/firebog-ticklist-hosts.txt)
+* [Firebog Ticklist](https://raw.githubusercontent.com/SystemJargon/pi-hole/main/firebog-ticklist-hosts.txt)
 
-[Porn](https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adult/porn-multi-lists-combo.txt)
+* [Porn](https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adult/porn-multi-lists-combo.txt)
 
-[OISD](https://dbl.oisd.nl/)
+* [OISD](https://dbl.oisd.nl/)
 
-[StevenBlack Hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
+* [StevenBlack Hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
 
-[Perflyst SmartTV](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) or [SmartTV-more](https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/SmartTV-more.txt)
+* [Perflyst SmartTV](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) or [SmartTV-more](https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/SmartTV-more.txt)
 
 ----
 
 
 
-## Other links
+### Other links
 
 * [Official website](https://pi-hole.net/)
 
@@ -91,7 +89,7 @@ All raw link lists below are in HOSTS format & supported in pi-hole
 -->
 ----
 
-## Sites to find Domain Categories / Verify
+### Sites to find Domain Categories / Verify
 
 * [URL Void](https://www.urlvoid.com)
 
