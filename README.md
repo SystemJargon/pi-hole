@@ -6,6 +6,15 @@ A trove of content relating to Pi-hole. How-to guides, blocklists, whitelists, r
 
 Feel to contribute, fork, pull-request, star or otherwise.
 
+## Status
+
+[![HitCount](https://hits.dwyl.com/systemjargon/pi-hole.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/pi-hole) [![GitHub stars](https://img.shields.io/github/stars/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers) [![GitHub stars](https://img.shields.io/github/forks/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers) [![GitHub stars](https://img.shields.io/github/issues/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers)
+
+
+[![last commit](https://img.shields.io/github/last-commit/SystemJargon/pi-hole.svg)](https://github.com/SystemJargon/pi-hole/commits/master)
+[![commit activity](https://img.shields.io/github/commit-activity/y/SystemJargon/pi-hole.svg)](https://github.com/SystemJargon/pi-hole/commits/master)
+
+----
 
 ## How to add lists?
 
