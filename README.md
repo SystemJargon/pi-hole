@@ -6,7 +6,9 @@ A trove of content relating to Pi-hole. How-to guides, blocklists, whitelists, r
 
 Feel to contribute, fork, pull-request, star or otherwise.
 
-## Status
+### Status
+
+[![Update File](https://github.com/SystemJargon/pi-hole/actions/workflows/update-ticked-hosts.yml/badge.svg)](https://github.com/SystemJargon/filters/actions/workflows/update-ticked-hosts.yml)
 
 [![HitCount](https://hits.dwyl.com/systemjargon/pi-hole.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/pi-hole) [![GitHub stars](https://img.shields.io/github/stars/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers) [![GitHub stars](https://img.shields.io/github/forks/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers) [![GitHub stars](https://img.shields.io/github/issues/systemjargon/pi-hole)](https://github.com/systemjargon/pi-hole/stargazers)
 
