@@ -16,6 +16,16 @@ Feel to contribute, fork, pull-request, star or otherwise.
 
 ----
 
+## False Positives
+
+Which list contains it the domain?
+
+Run ```pihole -q blockeddomain.com``` and it will return the URL of the block list.
+
+You can then optionally allowlist/whitelist this or submit an [issue](https://github.com/SystemJargon/pi-hole/issues/new/choose)
+
+----
+
 ## My Links 
 
 * [Pi-hole Lists](https://github.com/SystemJargon/pi-hole/tree/main/lists)
