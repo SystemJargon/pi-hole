@@ -15,7 +15,7 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - uses: "actions/checkout@main"
-      - name: "Merge the Firebog ticklist into one file"
+      - name: "Merge the Firebog ticklist into a single output file"
         run: |
           echo -e 'Automatic hosts update\n' >> output.txt
           echo 'Sources:' >> output.txt
