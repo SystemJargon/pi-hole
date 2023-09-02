@@ -14,8 +14,9 @@ jobs:
   main:
     runs-on: "ubuntu-latest"
     steps:
-      - name: "Checkout"
-        uses: "actions/checkout@main"
+      - uses: "actions/checkout@main"
+        with: 
+            token: ${{secrets.sj_pi_hole}}
       - name: "Update hosts blocklist"
         run: |
           echo -e 'Automatic hosts update\n' >> output.txt
@@ -39,11 +40,4 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 1
           keep_minimum_runs: 1
-
-
-# old add and commit code
-#          git config user.name github-actions
-#          git config user.email github-actions@github.com
-#          git add firebog-ticklist-hosts.txt
-#          git commit --allow-empty --file output.txt
-#          git push
+# EOF
