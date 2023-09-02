@@ -1,4 +1,4 @@
-name: "Update ticklist firebog.net into hosts format"
+name: "Merge the Firebog ticklist into one file"
 
 on:
   schedule:
@@ -15,9 +15,7 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - uses: "actions/checkout@main"
-        with: 
-            token: '${{ secrets.PAT }}'
-      - name: "Update hosts blocklist"
+      - name: "Merge the Firebog ticklist into one file"
         run: |
           echo -e 'Automatic hosts update\n' >> output.txt
           echo 'Sources:' >> output.txt
