@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: "actions/checkout@main"
         with: 
-            token: ${{secrets.sj_pi_hole}}
+            token: ${{secrets.PAT}}
       - name: "Update hosts blocklist"
         run: |
           echo -e 'Automatic hosts update\n' >> output.txt
