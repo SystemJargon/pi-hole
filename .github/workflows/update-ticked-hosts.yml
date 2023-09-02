@@ -15,9 +15,9 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - uses: "actions/checkout@v3"
-      # let's try this with PAT and checkout v3 rather than main or v2
+      # let's try this with checkout v3 rather than main or v2
         with:
-          token: ${{secrets.PAT}}
+          token: ${{ github.token }}
       - name: "Merge the Firebog ticklist into a single output file"
         run: |
           echo -e 'Automatic hosts update\n' >> output.txt
