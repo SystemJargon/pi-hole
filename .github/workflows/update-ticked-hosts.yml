@@ -24,6 +24,7 @@ jobs:
             echo "  - '${URL}'" >> output.txt
           done
           sort firebog-ticked-hosts.tmp | uniq | sed 's/^/0.0.0.0 /g' | tail -n +2 > firebog-ticklist-hosts.txt
+          rm firebog-ticked-hosts.tmp
 
       - name: Commit changes
         uses: EndBug/add-and-commit@main
