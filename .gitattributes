@@ -1,4 +1,4 @@
-# Format
+# Format Language
 /*.txt linguist-language=fundamental linguist-detectable
 /lists/*.txt linguist-language=fundamental linguist-detectable
 /regex/*.list linguist-language=regex linguist-detectable
