@@ -63,3 +63,4 @@ Then you could try something like this, for keyword multi-string in the domain n
 (\.|^|-)(youtubeeducation|youtube|ytimg|googlevideo|youtubegaming|youtube-nocookie|youtubei|yt3)[.]
 ```
 
+[More info](https://docs.pi-hole.net/regex/tutorial/)
