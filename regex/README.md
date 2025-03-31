@@ -45,6 +45,15 @@ Then you could try something like this, for keyword multi-string in the domain n
 (\.)(adult|ads|adverts|advertising|click|porn|sex|telemetry|tracking|tracing)$
 ```
 
+
+----
+
+regex keywords - domains containing specific words
+
+example of blocking words, elephant, zebra, submarine, orange, lagoon (change this to your own keywords).
+
+```.*(elephant|zebra|submarine|orange|lagoon).*	```
+
 ----
 
 ## porn begins with blocking regex
