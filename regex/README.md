@@ -48,7 +48,7 @@ Then you could try something like this, for keyword multi-string in the domain n
 
 ----
 
-regex keywords - domains containing specific words
+## regex keywords - domains containing specific words
 
 example of blocking words, elephant, zebra, submarine, orange, lagoon (change this to your own keywords).
 
